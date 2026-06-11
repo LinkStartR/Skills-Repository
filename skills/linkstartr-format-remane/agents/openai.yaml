@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkStartR-Format-Remane"
+  short_description: "Rename conversations using LinkStartR standard Chinese title format."
+  default_prompt: "按标准格式命名此对话"
