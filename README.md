@@ -1,6 +1,6 @@
 # Skills Repository
 
-This repository stores reusable Codex skills maintained by HorizonZhi.
+This repository stores reusable Codex skills maintained by LinkStartR.
 
 ## Repository Layout
 
@@ -23,7 +23,7 @@ skills/
 
 | Skill | Description |
 | --- | --- |
-| `horizonzhi-format-remane` | Renames Codex conversations using HorizonZhi's standard Chinese conversation-title format. Triggered by `按标准格式命名此对话` or `mmdh`. |
+| `linkstartr-format-remane` | Renames Codex conversations using LinkStartR's standard Chinese conversation-title format. Triggered by `按标准格式命名此对话` or `mmdh`. Project conversations omit the leading `【领域】` bracket. |
 
 ## Notes
 
