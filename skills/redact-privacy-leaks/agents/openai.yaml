@@ -1,0 +1,4 @@
+interface:
+  display_name: "Redact Privacy Leaks"
+  short_description: "Find and selectively redact exposed personal information."
+  default_prompt: "Use $redact-privacy-leaks to review this file for privacy leaks and let me choose what to redact."
