@@ -24,6 +24,8 @@ skills/
 | Skill | Description |
 | --- | --- |
 | `linkstartr-format-remane` | Renames Codex conversations using LinkStartR's standard Chinese conversation-title format. Triggered by `按标准格式命名此对话` or `mmdh`. Project conversations omit the leading `【领域】` bracket. |
+| `main-child-workflow` | Coordinates large Codex projects with a main-thread plus child-thread workflow, including task decomposition, thread indexing, Git/GitHub hygiene, testing handoff, and staged verification. |
+| `redact-privacy-leaks` | Reviews and redacts privacy or personal-information leaks in code, documents, prompts, notes, datasets, logs, Markdown, JSON, CSV, and other text artifacts. |
 
 ## Notes
 
