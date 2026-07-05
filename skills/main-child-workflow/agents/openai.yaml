@@ -1,0 +1,4 @@
+interface:
+  display_name: "Main Child Workflow"
+  short_description: "Coordinate large Codex projects with main and child threads."
+  default_prompt: "Use $main-child-workflow to coordinate this large Codex project with child threads, task cards, visibility checks, model recommendations, and a thread index."
